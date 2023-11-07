@@ -1,0 +1,9 @@
+"pip install -r requirements.txt" to install files from requirements.txt
+1) Open model folder then open terminal from there and then type command "jupyter notebook"
+2) Then run all the codes in ipynb file
+3) By running the last 2 codes we will get the 2 files which is ".pickle" & "column.json" updated
+4) Copy both files and then paste it in server folder's artifacts by replacing them
+5) Then In vs-code open terminal go in "server" folder write command "python server.py"
+6) Then go in "http://127.0.0.1:5000/get_location_names" to check
+7) Then in client folder open app.html file run it by go live and stay tuned
+8) Make sure that no error lies in notebook file
